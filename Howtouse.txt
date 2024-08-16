@@ -1,3 +1,8 @@
+src > main.kt
+
+        or
+
+
 Instructions for Using KotlinDiceSim
 Prerequisites:
 Ensure you have Java and Kotlin installed on your system.
