@@ -1,0 +1,33 @@
+Instructions for Using KotlinDiceSim
+Prerequisites:
+Ensure you have Java and Kotlin installed on your system.
+Clone the Repository:
+Open your terminal or command prompt.
+Run the following command to clone the repository:
+**git clone <repository_url>
+
+Replace <repository_url> with the actual URL of your KotlinDiceSim repository on GitHub.
+Navigate to the Project Directory:
+Change your working directory to the cloned project folder:
+**cd KotlinDiceSim
+
+Compile the Kotlin Code:
+Compile the Kotlin source files using the following command:
+**kotlinc src/*.kt -include-runtime -d KotlinDiceSim.jar
+
+Run the Program:
+Execute the compiled JAR file:
+**java -jar KotlinDiceSim.jar
+
+Follow the prompts to input the number of dice you want to roll.
+Enjoy Rolling the Dice!
+The program will simulate the dice rolls and display the results.
+Feel the excitement of chance right in your terminal!
+Customization (Optional):
+If you want to simulate dice with more sides (e.g., D20), modify the code in DiceSimulator.kt.
+Explore the Kotlin code and make it your own!
+Now you’re ready to roll (literally)!🌟🎲
+
+If you have any questions or need further assistance, feel free to ask—I’m here to help @stoikshiv On INSTAGRAM
+
+!Dice Adventure
