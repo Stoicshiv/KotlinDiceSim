@@ -17,5 +17,12 @@ fun main() {
     Thread.sleep(1000) // Add a little suspense!
     println("You rolled a $diceResult!")
 
+    // Customized message based on the player's name
+    if (playerName.length > 5) {
+        println("Wow, $playerName! Your name is quite impressive.")
+    } else {
+        println("Nice to meet you, $playerName!")
+    }
+
     println("May luck be on your side!")
 }
