@@ -24,3 +24,4 @@ KotlinDiceSim isn’t just about numbers—it’s about the joy of rolling dice,
 Feel free to customize this description further, add technical details, or inject some humor. And remember, in the world of KotlinDiceSim, every roll is a mini-adventure! 🌟🎲
 
 !KotlinDiceSim 🚀🎩
+Happy To Code <3
