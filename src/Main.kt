@@ -1,12 +1,13 @@
 // DiceRunGame.kt
 import java.util.*
-
+// Creating and Calllling a function.
 fun main() {
+    //Declaring the useful variaables.
     val scanner = Scanner(System.`in`)
     println("Welcome to the world of DiceRun!")
     print("What's your name? ")
     val playerName = scanner.nextLine()
-
+    // Giving the Greeting message to the user.
     println("Hello, $playerName! Prepare for an exciting dice adventure.")
     println("Roll the dice and see where fate takes you!")
     // Simulate a dice throw (random number between 1 and 6)
